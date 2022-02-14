@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Rainier Hattingh</title>
-  
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
