@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://bitscruffog.github.io/Project42/styles.css">
 </head>
 
 <body>
